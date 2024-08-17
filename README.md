@@ -1,4 +1,4 @@
-# Hello App - Cross-Arch Docker Image
+# Hello App - Cross-Arch Image
 
 This repository contains a cross-architecture (cross-arch) build of the [Google Cloud Kubernetes Engine sample hello-app](https://cloud.google.com/kubernetes-engine/docs/samples/container-hello-app). The original Google image was built for `amd64` architecture only. This project extends the compatibility to multiple architectures, such as `arm64` and `amd64`.
 
